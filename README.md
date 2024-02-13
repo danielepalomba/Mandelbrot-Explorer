@@ -27,4 +27,8 @@ The script includes functions for Mandelbrot computation and visualization.
 - max_iter: Maximum number of iterations for the Mandelbrot computation.
 Feel free to modify the script and explore different settings to create captivating Mandelbrot visualizations.
 
+### Plot
+
+![Alt text](img/plot.png)
+
 Enjoy exploring the fascinating world of the Mandelbrot set!
